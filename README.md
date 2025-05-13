@@ -21,13 +21,7 @@ This theme is meticulously crafted to provide a distraction-free writing and org
 
 ## Ready to Command Your Notes with a Retro Flair?
 
-[Download White Prompt](link_to_theme_download)
-*(Follow the simple installation instructions within Obsidian)*
-
-
-# Installation
-
-To install the theme
+To install the theme:
 
 - Open Obsidian Settings
 - Go to `Appearance` and click `Manage`
