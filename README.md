@@ -1,14 +1,12 @@
 # Terminal2K
 
-
 <p align="center">
   <img src="./img/terminal2k.png" />
-  <p align="center"> Crafted with passion for the Obsidian community 💚</p>
-  <div style="width:100%;text-align:center;">
+  <p align="center"> 💚 Crafted with passion for the Obsidian community 💚 </p>
+  <div style="width:100%;text-align:"center";">
     <a href="https://www.buymeacoffee.com/isax785"> <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=kepano&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"> </a>
-    </div>
+  </div>
 </p>
-
 
 ## Step Back in Time, Power Up Your Productivity
 
@@ -17,7 +15,10 @@ Craving a departure from the ordinary? Yearning for the focused simplicity of a 
 This theme is meticulously crafted to provide a distraction-free writing and organizing experience, echoing the legendary terminals of yesteryear with its crisp white text on a deep black background and highlighted with electric green for emphasis on **bold**, *italic*, and `inline code`.
 
 ## Key Features You'll Love
-![screenshot](./img/screenshot.png)
+
+<p align="center">
+  <img src="./img/screenshot.png" />
+</p>
 
 * **Authentic Retro Look:** Immerse yourself in a genuine terminal feel with sharp white text against a pure black backdrop.
 * **Enhanced Focus:** A clean, minimal design to laser-focus your attention on what truly matters.
