@@ -22,8 +22,7 @@ This theme is meticulously crafted to provide a distraction-free writing and org
 
 * **Authentic Retro Look:** Immerse yourself in a genuine terminal feel with sharp white text against a pure black backdrop.
 * **Enhanced Focus:** A clean, minimal design to laser-focus your attention on what truly matters.
-* **Optimal Readability:** Carefully chosen fonts and sizing ensure comfortable reading for extended sessions.
-* **Seamless Obsidian Integration:** Works flawlessly with all your favorite Obsidian features.
+* **Optimal Readability:** Carefully chosen colors that ensure comfortable reading for extended sessions.
 * **Continuous Evolution:** Expect ongoing updates and improvements, driven by community feedback!
 
 ## Ready to Command Your Notes with a Retro Flair?
