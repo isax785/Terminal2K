@@ -3,12 +3,11 @@
 
 <p align="center">
   <img src="./img/terminal2k.png" />
-  <p align="center"> Crafted with passion for the Obsidian community 💚
+  <p align="center"> Crafted with passion for the Obsidian community 💚</p>
+  <div style="width:100%;text-align:center;">
+    <a href="https://www.buymeacoffee.com/isax785"> <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=kepano&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"> </a>
+    </div>
 </p>
-
-
-
-[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=kepano&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/isax785)
 
 
 ## Step Back in Time, Power Up Your Productivity
