@@ -2,7 +2,12 @@
 
 ![logo](./img/terminal2k.png)
 
-Fuel your thoughts in a strikingly retro terminal environment within Obsidian.
+
+<p align="center">💚 Crafted with passion for the Obsidian community 💚</p>
+
+
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=kepano&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/isax785)
+
 
 ## Step Back in Time, Power Up Your Productivity
 
@@ -29,15 +34,3 @@ To install the theme:
 
 Enjoy!✨
 
----
-
-## Show Your Support
-
-If you dig White Prompt and want to fuel its future development, consider buying me a coffee!
-
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/isax785)
-Every little bit helps keep the retro vibes alive!
-
----
-
-💚 Crafted with passion for the Obsidian community 💚
