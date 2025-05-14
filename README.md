@@ -4,7 +4,9 @@
   <img src="./img/terminal2k.png" />
   <p align="center"> 💚 Crafted with passion for the Obsidian community 💚 </p>
   <div style="width:100%;text-align:"center";">
-    <a href="https://www.buymeacoffee.com/isax785"> <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=kepano&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"> </a>
+    <p align="center">
+      <a href="https://www.buymeacoffee.com/isax785" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+    </p>
   </div>
 </p>
 
