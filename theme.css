@@ -324,7 +324,14 @@ table {
     margin-left: auto;
     margin-right: auto;
 }
-    
+
+/* ----------- Checkboxes ----------- */
+
+input[type=checkbox]çchecked:hover {
+    background-color: var(--checklist-done-color);
+    border-color: var(--checklist-done-color);
+}
+
 /* ----------- Images ----------- */
 
 img {display:block;
