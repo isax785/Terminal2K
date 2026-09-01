@@ -195,24 +195,44 @@
 
 /* ----------- Titles ----------- */
 
-.HyperMD-header-1, .HyperMD-header.HyperMD-header-1.cm-line, h1 {
-    padding-top: 0.3em!important;
-    padding-bottom: 0.2em!important;
-    margin-top: 0.3em!important;
-    margin-bottom: 0.5em!important;
-  }
-  
-.HyperMD-header-2, .HyperMD-header.HyperMD-header-2.cm-line, h2 {
+h1 {
     padding-top: 0.3em!important;
     padding-bottom: 0.2em!important;
     margin-top: 0.3em!important;
     margin-bottom: 0.5em!important;
 }
 
-.HyperMD-header-3, .HyperMD-header.HyperMD-header-3.cm-line, h3 {
+h2 {
+    padding-top: 0.3em!important;
+    padding-bottom: 0.2em!important;
+    margin-top: 0.3em!important;
+    margin-bottom: 0.5em!important;
+}
+
+h3 {
     padding-top: 0.3em!important;
     margin-top: 0.3em!important;
     margin-bottom: 0.3em!important;
+}
+
+.HyperMD-header-1, .HyperMD-header.HyperMD-header-1.cm-line {
+    padding-top: 0.3em!important;
+    padding-bottom: 0.2em!important;
+    margin-top: 0!important;
+    margin-bottom: 0!important;
+}
+  
+.HyperMD-header-2, .HyperMD-header.HyperMD-header-2.cm-line {
+    padding-top: 0.3em!important;
+    padding-bottom: 0.2em!important;
+    margin-top: 0!important;
+    margin-bottom: 0!important;
+}
+
+.HyperMD-header-3, .HyperMD-header.HyperMD-header-3.cm-line {
+    padding-top: 0.3em!important;
+    margin-top: 0!important;
+    margin-bottom: 0!important;
 }
 
 .cm-header.cm-header-1.cm-inline-code,
@@ -327,7 +347,7 @@ table {
 
 /* ----------- Checkboxes ----------- */
 
-input[type=checkbox]çchecked:hover {
+input[type=checkbox]:checked:hover {
     background-color: var(--checklist-done-color);
     border-color: var(--checklist-done-color);
 }
@@ -452,10 +472,3 @@ code[class*="language-"]
     margin-right: 7px !important;
 }
 
-/* ----------- Lines Fix ----------- */
-
-.mod-cm6 .cm-editor .HyperMD-header, .markdown-reading-view .markdown-preview-section :is(h1,h2,h3,h4,h5,h6) {
-    line-height: 1em !important;
-    margin:2px 0px 2px 0px !important;
-    padding: 1px 0px 2px 0px !important;
-}
